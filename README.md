@@ -2,7 +2,6 @@
 Bubble sort program:
 
 marks=[70,85,60,90,75]
-
 n=len(marks)
 for i in range(n):
     for j in range(0,n-i-1):
