@@ -1,5 +1,5 @@
 # Data-structure-partical-program14
-Bubble sort program
+Bubble sort program:
 marks=[70,85,60,90,75]
 
 n=len(marks)
